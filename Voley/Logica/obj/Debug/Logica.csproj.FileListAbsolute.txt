@@ -1,0 +1,6 @@
+C:\Users\micae\source\repos\Voley\Logica\bin\Debug\Logica.dll
+C:\Users\micae\source\repos\Voley\Logica\bin\Debug\Logica.pdb
+C:\Users\micae\source\repos\Voley\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\micae\source\repos\Voley\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\micae\source\repos\Voley\Logica\obj\Debug\Logica.dll
+C:\Users\micae\source\repos\Voley\Logica\obj\Debug\Logica.pdb
