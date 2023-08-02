@@ -47,6 +47,7 @@
             this.INICIAR.TabIndex = 9;
             this.INICIAR.Text = "INICIAR";
             this.INICIAR.UseVisualStyleBackColor = false;
+            this.INICIAR.Click += new System.EventHandler(this.INICIAR_Click);
             // 
             // Contraseña
             // 

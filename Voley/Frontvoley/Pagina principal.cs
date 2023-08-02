@@ -32,5 +32,12 @@ namespace Frontvoley
             fixture.Show();
             this.Hide();
         }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            Inicio_Sesion inicio_Sesion = new Inicio_Sesion();
+            inicio_Sesion.Show();
+            this.Hide();
+        }
     }
 }

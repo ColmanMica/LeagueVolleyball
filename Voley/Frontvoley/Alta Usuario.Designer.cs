@@ -49,7 +49,6 @@
             this.labelFoto = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.butALTA = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -58,9 +57,9 @@
             this.BotonGUAR.BackColor = System.Drawing.Color.Green;
             this.BotonGUAR.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BotonGUAR.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.BotonGUAR.Location = new System.Drawing.Point(884, 166);
+            this.BotonGUAR.Location = new System.Drawing.Point(41, 458);
             this.BotonGUAR.Name = "BotonGUAR";
-            this.BotonGUAR.Size = new System.Drawing.Size(141, 79);
+            this.BotonGUAR.Size = new System.Drawing.Size(181, 79);
             this.BotonGUAR.TabIndex = 0;
             this.BotonGUAR.Text = "GUARDAR";
             this.BotonGUAR.UseVisualStyleBackColor = false;
@@ -84,9 +83,9 @@
             this.button3.BackColor = System.Drawing.Color.Navy;
             this.button3.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button3.Location = new System.Drawing.Point(587, 463);
+            this.button3.Location = new System.Drawing.Point(587, 458);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(131, 69);
+            this.button3.Size = new System.Drawing.Size(184, 69);
             this.button3.TabIndex = 2;
             this.button3.Text = "ELIMINAR";
             this.button3.UseVisualStyleBackColor = false;
@@ -96,9 +95,9 @@
             this.button4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.button4.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button4.Location = new System.Drawing.Point(849, 468);
+            this.button4.Location = new System.Drawing.Point(824, 458);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(137, 69);
+            this.button4.Size = new System.Drawing.Size(181, 69);
             this.button4.TabIndex = 3;
             this.button4.Text = "CANCELAR";
             this.button4.UseVisualStyleBackColor = false;
@@ -260,25 +259,11 @@
             this.label1.TabIndex = 20;
             this.label1.Text = "Planilla de datos personales:";
             // 
-            // butALTA
-            // 
-            this.butALTA.BackColor = System.Drawing.Color.Green;
-            this.butALTA.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.butALTA.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.butALTA.Location = new System.Drawing.Point(41, 458);
-            this.butALTA.Name = "butALTA";
-            this.butALTA.Size = new System.Drawing.Size(211, 79);
-            this.butALTA.TabIndex = 21;
-            this.butALTA.Text = "INICIAR SESIÓN";
-            this.butALTA.UseVisualStyleBackColor = false;
-            this.butALTA.Click += new System.EventHandler(this.butALTA_Click);
-            // 
             // Alta_Usuario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1046, 614);
-            this.Controls.Add(this.butALTA);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.labelFoto);
@@ -331,6 +316,5 @@
         private System.Windows.Forms.Label labelFoto;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button butALTA;
     }
 }

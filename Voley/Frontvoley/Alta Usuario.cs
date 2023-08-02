@@ -64,10 +64,8 @@ namespace Frontvoley
 
         private void butALTA_Click(object sender, EventArgs e)
         {
-            Inicio_Sesion inicio_Sesion = new Inicio_Sesion();
-            inicio_Sesion.Show();
-            this.Hide();
-        }
+
+        }   
 
         private void botonModif_Click(object sender, EventArgs e)
         {
