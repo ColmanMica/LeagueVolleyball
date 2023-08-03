@@ -42,7 +42,7 @@ namespace Frontvoley
 
             principal.AltaPersona(persona);
 
-            
+            MessageBox.Show("¡CARGA EXITOSA!");
 
             Presentación_de_datos presentación_De_Datos = new Presentación_de_datos();
             presentación_De_Datos.Show();

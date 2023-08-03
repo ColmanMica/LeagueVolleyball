@@ -34,3 +34,4 @@ C:\Users\micae\OneDrive\Documentos\GitHub\LeagueVolleyball\Voley\Frontvoley\obj\
 C:\Users\micae\OneDrive\Documentos\GitHub\LeagueVolleyball\Voley\Frontvoley\obj\Debug\Frontvoley.csproj.CopyComplete
 C:\Users\micae\OneDrive\Documentos\GitHub\LeagueVolleyball\Voley\Frontvoley\obj\Debug\Frontvoley.exe
 C:\Users\micae\OneDrive\Documentos\GitHub\LeagueVolleyball\Voley\Frontvoley\obj\Debug\Frontvoley.pdb
+C:\Users\micae\OneDrive\Documentos\GitHub\LeagueVolleyball\Voley\Frontvoley\obj\Debug\Frontvoley.Menu.resources

@@ -12,7 +12,7 @@ using System.Windows.Forms;
 
 namespace Frontvoley
 {
-
+    
     public partial class Presentación_de_datos : Form
     {
         Principal principal = new Principal();

@@ -72,7 +72,7 @@
             this.botonModif.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.botonModif.Location = new System.Drawing.Point(327, 458);
             this.botonModif.Name = "botonModif";
-            this.botonModif.Size = new System.Drawing.Size(181, 79);
+            this.botonModif.Size = new System.Drawing.Size(186, 79);
             this.botonModif.TabIndex = 1;
             this.botonModif.Text = "MODIFICACIÓN";
             this.botonModif.UseVisualStyleBackColor = false;
@@ -263,7 +263,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1046, 614);
+            this.ClientSize = new System.Drawing.Size(1121, 688);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.labelFoto);
